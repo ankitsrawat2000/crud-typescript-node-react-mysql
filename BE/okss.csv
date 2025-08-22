@@ -1,4 +1,0 @@
-"id","client_name","firm_name","gst_number","email","email_sent_gst_r1_date","email_sent_gst_r3b_date","active_flag","mail_body_gst_r1","mail_body_gst_r3b"
-"1","ankit","okss","22AAAAA0000A1Z5","ankit9891488737@gmail.com","02-01,02-02,02-03,30-07","06-08, 30-07","1","test body gst r1","test body gst r2"
-"2","rahul","okfs","24AAABA0000A1J9","ankitsrawat2000@gmail.com","29-04,06-08","30-01,30-06,30-07,30-09","1","test body gst r1","test body gst r2"
-"3","test","osss","24BBBBA0880A1J9","anketah1309@gmail.com","29-04, 06-08","02-03,02-06,30-07","0","test body gst r1","test body gst r2"
