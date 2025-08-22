@@ -1,0 +1,9 @@
+Dear {{client_name}},
+
+This is a reminder for your firm "{{firm_name}}" (GST: {{gst_number}}) that:
+
+{{reminder_message}}
+
+Please take the necessary action to avoid penalties.
+
+Regards,  
